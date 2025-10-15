@@ -1,8 +1,3 @@
-Of course. Here is a comprehensive `README.md` file for your GitHub repository, created based on the project report you provided. You can copy and paste this directly into a `README.md` file in your repository.
-
------
-
-```markdown
 # Metropolitan Area Network (MAN) Simulation
 
 [cite_start]This project is a comprehensive simulation of a Metropolitan Area Network (MAN) designed for the "Data Communications and Computer Networks" course at Dokuz Eylül University[cite: 1, 5, 6, 7]. The network was built and simulated using **Cisco Packet Tracer**.
@@ -56,5 +51,3 @@ The functionality and performance of the network were verified by simulating nin
 ## How to Use
 
 To explore the network topology and run the simulations, open the `.pka` or `.pkz` design file using **Cisco Packet Tracer** software. The full project documentation and analysis can be found in the `Metropolitan Area Network Simulation Report.pdf` file.
-
-```
